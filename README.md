@@ -20,6 +20,27 @@ O dashboard foi criado para responder perguntas de negócio importantes, como:
 
 ---
 
+# 📈 Insights Extraídos dos Dados
+
+Durante a análise do conjunto de dados, alguns padrões importantes podem ser observados:
+
+• Alguns produtos concentram grande parte do volume de vendas, indicando **possíveis produtos estratégicos para o negócio**.
+
+• A comparação entre lojas permite identificar **diferenças de desempenho regional**, ajudando a entender onde existem oportunidades de crescimento.
+
+• A análise temporal mostra **variações nas vendas ao longo dos dias**, permitindo detectar períodos de maior ou menor demanda.
+
+• A distribuição de vendas por categoria ajuda a entender **quais segmentos possuem maior participação no faturamento**.
+
+Esses insights são úteis para apoiar decisões como:
+
+* Estratégias de estoque
+* Planejamento de vendas
+* Promoções e campanhas
+* Otimização do portfólio de produtos
+
+---
+
 # 🧠 Estrutura do Dashboard
 
 O relatório foi dividido em **três páginas analíticas principais**.
@@ -42,7 +63,7 @@ Visualizações incluídas:
 * Tendência diária de vendas
 * Comparação de desempenho entre lojas
 
-<img width="1307" height="736" alt="image" src="https://github.com/user-attachments/assets/347f8f6d-8b78-4e52-aa91-ecaa23e4c9a7" />
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/37cc65b7-10b6-4491-a1ee-4a588ef0e4a4" />
 
 
 ---
@@ -63,7 +84,7 @@ Visualizações:
 * Tabela detalhada de vendas por produto
 * Distribuição de vendas por categoria
 
-<img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/6fcfe1e4-1424-4a59-a60a-6e11b4b2decb" />
+<img width="1309" height="726" alt="image" src="https://github.com/user-attachments/assets/69862045-3139-47b7-b1aa-f140f2eae27f" />
 
 
 ---
@@ -83,7 +104,7 @@ Visualizações:
 * Distribuição do estoque por produto
 * Tendência de vendas ao longo do tempo
 
-<img width="1310" height="735" alt="image" src="https://github.com/user-attachments/assets/983206e6-dbfd-40ee-8714-d308fade6abb" />
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/9171745a-99e7-47ac-86db-fe01e861705f" />
 
 
 ---
@@ -123,8 +144,6 @@ Este projeto foi desenvolvido utilizando:
 * Power Query
 * Modelagem de dados
 * Arquivos CSV como fonte de dados
-* Python para organização e modelagem
-* Dados internos autorizados
 
 ---
 
@@ -167,6 +186,7 @@ Algumas melhorias que podem ser implementadas em versões futuras:
 * Alertas automáticos de estoque baixo
 * Segmentação de clientes
 * Modelos de previsão de vendas
+* Integração com banco de dados em tempo real
 
 ---
 
